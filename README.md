@@ -75,7 +75,7 @@
 
 ###
 
-<p align="left">Committed to growth, collaboration, and meaningful contributions in the open-source community."</p>
+<h2 align="left">Committed to growth, collaboration, and meaningful contributions in the open-source community."</h2>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<p align="left">"Just a learner, dreaming big with every commit."</p>
+<h3 align="center">"Just a learner, dreaming big with every commit."</h3>
 
 ###
 
