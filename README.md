@@ -31,7 +31,14 @@
 
 ###
 
-<p align="left">AI Developer | Machine Learning & Deep Learning Enthusiast<br><br>I’m an aspiring AI developer with a strong focus on machine learning and deep learning. I strive to grow every day — writing cleaner code, building smarter models, and learning from every experiment.<br><br>Currently exploring the frontiers of artificial intelligence, one project at a time.<br><br>💡 Always curious.<br>⚙ Always building.<br>🚀 Always improving.<br><br>Let’s connect, collaborate, and create something intelligent.<br><br>🔗 LinkedIn<br>🌐 Portfolio<br>📝 Blog<br>🐦 Twitter / X<br><br><br>---</p>
+<p align="left"> <strong>AI Developer | Machine Learning &amp; Deep Learning Enthusiast</strong><br><br> I’m an aspiring AI developer with a strong focus on machine learning and deep learning. I strive to grow every day — writing cleaner code, building smarter models, and learning from every experiment.<br><br> Currently exploring the frontiers of artificial intelligence, one project at a time.<br><br> 💡 Always curious.<br> ⚙️ Always building.<br> 🚀 Always improving.<br><br> <strong>Connect with me:</strong><br> <ul style="list-style: none; padding: 0; margin: 0;"> <li>🔗 <a href="https://www.linkedin.com/in/qusai-elgemmey-b145a2341/" target="_blank">LinkedIn</a></li> <li>📊 <a href="https://www.kaggle.com/qusai176" target="_blank">Kaggle</a></li> <li>🤗 <a href="https://huggingface.co/Qusai176" target="_blank">Hugging Face</a></li> <li>🐦 <a href="https://x.com/Qusai1218" target="_blank">X (Twitter)</a></li> </ul> </p>
+
+
+
+
+
+
+
 
 ###
 
